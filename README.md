@@ -12,6 +12,8 @@ I'm especially passionate about indie games.
 
 <h3 align="left">🛠 Languages and tools</h3>
 
+<img align="right" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif"/>
+
 ###
 
 <div align="left">
@@ -47,6 +49,6 @@ I'm especially passionate about indie games.
 
 <div>
     <img style="vertical-align: middle; margin-right: 10" src="https://github-readme-stats.vercel.app/api?username=lokiseraven&show_icons=true&theme=dark">
+    <img width="12"/>
     <img style="vertical-align: middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokiseraven&layout=compact&theme=dark"/>
-    <img style="vertical-align: middle" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif"/>
 </div>
