@@ -1,11 +1,15 @@
 ## 👋 Hi ! I'm Théo
 
-I love playing video games and creating my owns.
+Currently a computer science student, I love playing video games and creating my owns.
 
-👾 Game Developer
+###
+
+👾 Game Developer  
 🔭 I’m currently working on a 2D coop game on Unity
 
-<h3 align="left">🛠 Language and tools</h3>
+###
+
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -19,6 +23,8 @@ I love playing video games and creating my owns.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
@@ -28,34 +34,18 @@ I love playing video games and creating my owns.
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=@lokise&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+#
+<img align="right" src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif"/>
+
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouzas&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=lokiseraven&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-
-<!--
-**LoKiseRaven/LoKiseRaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
