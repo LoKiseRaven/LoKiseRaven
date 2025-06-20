@@ -1,6 +1,6 @@
 ## 👋 Hi ! I'm Théo
 
-I'm currently a computer science student who loves playing video games — and making my own.
+I'm currently a computer science student who loves playing video games — and making my own.  
 I'm especially passionate about indie games.
 
 ###
