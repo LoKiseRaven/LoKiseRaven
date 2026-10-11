@@ -5,8 +5,7 @@ I'm especially passionate about indie games.
 
 ###
 
-👾 Game Developer  
-🔭 I’m currently working on a 2D coop game on Unity
+👾 Game Developer
 
 ###
 
